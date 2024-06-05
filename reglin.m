@@ -1,5 +1,5 @@
 function [m, q, dm, dq] = reglin(data)
-%REGLIN Regressione lineare con minimi quadrati, include incertezze
+%REGLIN Regressione lineare con minimi quadrati, include incertezze. y=mx+q
 %   Regressione lineare con minimi quadrati, include incertezze.
 %   [x, y, dy] formato di data
 %   assume dy tutti uguali per ogni y
